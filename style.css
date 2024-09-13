@@ -1,0 +1,25 @@
+*{
+    margin: 5px;
+    padding: 10px;
+    border: solid 0.5px white;
+}
+
+.cabeçalho-moda{
+    background-color: #BB86FC;
+    color: white;
+    font-size: 20px;
+}
+.produtos-moda{
+    background-color: #424250;
+    color: white;
+}
+
+.cabeçalho-casa{
+    background-color: #00C4B4;
+    color: white;
+    font-size: 20px;
+}
+.produtos-casa{
+    background-color: #424250;
+    color: white;
+}
